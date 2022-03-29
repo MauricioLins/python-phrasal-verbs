@@ -10,5 +10,9 @@ This is a simple example of data consumption that I have created to support my e
 
 
 ![This is an image](flow.png)
-###### To 
+
+###### Python Packages
+The needed Python packages can be found within the requirements.txt file.
+
+
 
