@@ -9,7 +9,7 @@ This is a simple example of data consumption that I have created to support my e
 3. Schedule a Python script to send emails containing a phrasal verb every scheduled day, using the Pythonanywhere service
 
 
-![This is an image](flow.png)
+![This is an image](flow_.png)
 
 ###### Python Packages
 The needed Python packages can be found within the requirements.txt file.
